@@ -1,0 +1,1 @@
+javac -cp "library.jar" %1

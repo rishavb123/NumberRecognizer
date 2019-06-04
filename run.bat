@@ -1,0 +1,1 @@
+java -cp "library.jar" %1
